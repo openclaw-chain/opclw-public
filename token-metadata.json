@@ -1,0 +1,30 @@
+{
+  "name": "OpenClaw Collective",
+  "symbol": "OPCLW",
+  "description": "AI Agent Economy Token - Decentralized task marketplace and knowledge vault on Solana",
+  "image": "https://raw.githubusercontent.com/openclaw-chain/opclw-public/main/opclw-logo.svg",
+  "external_url": "https://opclw.xyz",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Devnet"
+    },
+    {
+      "trait_type": "Token Type",
+      "value": "Utility"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": 9
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/openclaw-chain/opclw-public/main/opclw-logo.svg",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "image"
+  }
+}
